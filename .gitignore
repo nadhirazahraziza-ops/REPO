@@ -1,0 +1,29 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archives
+*.zip
+*.tar.gz
+
+# Node modules (if any)
+node_modules/
+
+# Environment files
+.env
+
+# Optional: large data files
+# Uncomment to ignore large GeoJSON or QMD if you prefer not to upload data
+# data/*.geojson
+# data/*.qmd
